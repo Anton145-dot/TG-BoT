@@ -1,0 +1,3 @@
+pip install pyTelegramBotAPI
+pip install pycbrf[cli] --upgrade
+python .\main.py
